@@ -9,3 +9,5 @@ $route['translate_uri_dashes'] = FALSE;
 
 // Routes Home
 $route['home'] = "home/callHome";
+
+$route['test'] = "test/runTest";
